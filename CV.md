@@ -28,9 +28,14 @@ Robotics
 
 ## Skills:
 
-Languages
+Human Languages
 * Partial proficiency in Urdu
 * Partial proficiency in Gujarati
 * Learning Spanish
+
+Programming Languages
+* Partial proficiency in Javascript (especially p5 library)
+* Partial proficiency Python
+* Proficiency in C
 
 ## Projects:
